@@ -1,0 +1,334 @@
+      
+   #cabecalho{
+    background-color: black;
+    width: auto;
+    color: white;
+    height: 120px;
+    margin: 20px auto;
+    padding-left:20px;
+    padding-top:10px;
+}
+.pai{
+    width: 100%;
+    background-color: white;
+
+    display: flex; /*transforma uma div em conterne*/
+    flex-direction:column;
+    flex-wrap:wrap; /*permite quebra de linha*/
+    justify-content:center ;
+    align-items: center;/*deixa os elementos no centro*/
+
+}
+.pai2{
+    width: 100%;
+    background-color: white;
+
+    display: flex; /*transforma uma div em conterne*/
+    flex-direction:column;
+    flex-wrap:wrap; /*permite quebra de linha*/
+    justify-content:center ;
+    align-items:;/*deixa os elementos no centro*/
+     flex-direction: row;
+}
+.pai3{
+
+width: 100%;
+    background-color: white;
+
+    display: flex; /*transforma uma div em conterne*/
+    flex-direction:column;
+    flex-wrap:wrap; /*permite quebra de linha*/
+    justify-content:center ;
+    align-items:;/*deixa os elementos no centro*/
+     flex-direction: row;
+
+
+}
+
+#filho1{
+    background-color:#FFFFFF;
+    color:black;
+    height: 60vh; 
+    width:200vh;
+    margin: 10vh auto;
+
+    
+}
+#filho2{
+    background-color:#ffffff;
+    width:900px;
+    color:black;
+    height: 100px;
+    margin: 20px auto;
+    padding-left:20px;
+    padding-top: 5px;
+}
+#filho3{
+    background-color:#FFC222;
+    width: 500px;
+    color:black;
+    height: 500px;
+    margin: 20px ;
+    
+  
+
+}
+#filho4{
+    background-color:#008b8b;
+    width: 500px;
+    color:black;
+    height: 500px;
+    margin: 20px ;
+ 
+    
+
+}
+#filho5{
+     background-color:#008b8b;
+    width: 500px;
+    color:black;
+    height: 500px;
+    margin: 20px;
+   ]
+    
+}
+#filho6{
+     background-color:#392620;
+    width: 400px;
+    color:black;
+    height: 50px;
+    margin: 70px ;
+   
+    
+}
+#filho7{
+     background-color:#392620;
+    width: 400px;
+    color:black;
+    height: 50px;
+    margin: 70px ;
+   
+    
+}
+#filho8{
+  background-color:#392620;
+    width: 400px;
+    color:black;
+    height: 50px;
+    margin: 70px ;
+    
+    
+    
+}
+
+#filho9{
+ background-color:#392620;
+      width: 70%;
+    height: 60vh;
+   
+    margin: 20PX;
+}
+
+
+
+
+#filho10{
+   background-color:#392620;;
+    width: 700px;
+    color:black;
+    height:50px;
+    margin: 20px;
+
+    
+   
+
+}
+#filho11{
+    background-color:#392620;
+    width: 700px;
+    color:black;
+    height:50px;
+    margin: 20px ;
+    
+
+}
+#filho12{
+   background-color:#392620;
+    width: 400px;
+    color:black;
+    height:50px;
+    margin: 70px ;
+   
+}
+#filho13{
+    background-color:#392620;
+    width: 700px;
+    color:black;
+    height:50px;
+    margin: 20px ;
+    
+  
+
+}
+#filho14{
+  background-color:#392620;
+    width: 700px;
+    color:black;
+    height:50px;
+    margin: 20px;
+  ;
+   
+
+}
+#filho15{
+    background-color:#392620;
+    width: 400px;
+    color:black;
+    height:50px;
+    margin: 70px ;
+    
+  
+
+}
+
+}
+#filho16{
+      width:20%;
+    height: 20vh;
+    background-color:#392620;
+     margin: 70px ;
+     flex-direction: row;
+      align-items: center;
+
+}
+#filho17{
+      width: 20%;
+    height: 20vh;
+    background-color:#FFFFFF;
+     margin: 70px ;
+      flex-direction: row;
+       align-items: center;
+}
+#filho18{
+    width:20%;
+    height: 20vh;
+    background-color:#FFFFFF;
+     margin: 70px ;
+     flex-direction: row;
+      align-items: center;
+}
+#filho19{
+     
+   width:20%;
+    height: 20vh;
+    background-color:#FFFFFF;
+     margin: 70px ;
+     flex-direction: row;
+     align-items: center;
+}
+
+}
+#filho21{
+    width: 89%;
+   height: 40vh;
+    background-color:#008b8b;
+    flex-direction: row;
+     align-items: center;
+
+    }
+    #filho22{
+      width: 85%;
+   height: 40vh;
+    background-color:#FFFFFF;
+    margin: 50px;
+    justify-content: space-around;
+    flex-direction: row;
+
+    }
+
+
+
+
+#rodape{
+   background-color:#008b8b;
+    width: auto;
+    color:black;
+    height: 120px;
+    margin: 20px auto;
+    padding-left:20px;
+    padding-top: 5px;
+}
+
+
+
+#filho23{
+  background-color:#392620 ;
+    width: 400px;
+    color:black;
+    height: 50px;
+    margin: 70px ;
+    
+    
+    
+}
+
+#filho24{
+   background-color:#392620;
+    width: 700px;
+    color:black;
+    height:50px;
+    margin: 20px a;
+    
+    }
+    #filho25{
+   background-color:#392620;
+    width: 700px;
+    color:black;
+    height:50px;
+    margin: 20px;
+    
+
+}
+P{
+    text-align: center;
+    color: yellow;
+     font-family: KAVON;
+}
+
+#parceria{
+      font-size: 50px;
+      color: black;
+}
+
+#LETRAAMARELA{
+
+background-color:#FFC222;
+ font-family: KAVON;
+
+}
+
+#cafe{
+    margin: 50px 50px 50px 5´px;
+}
+
+#DOCE{
+     margin: 50px;
+}
+#PRETO{
+    color: black;
+     font-family: KAVON;
+}
+
+#canto{
+    text-align: left;
+     font-family: KAVON;
+}
+ #roda{
+    color: black;
+    text-align: left;
+    font-family: KAVON;
+ }
+
+ body{
+    background-color: #C4B1AD;
+ }
